@@ -12,3 +12,4 @@
 # References
 [1] NHTSA’s National Center for Statistics and Analysis. (2017). 2016 Fatal Motor Vehicle Crashes: Overview (pp. 1–9).
 
+![image](https://user-images.githubusercontent.com/47282229/215977321-3fe8bdec-782b-4269-a0f9-4e85e34e1111.png)
