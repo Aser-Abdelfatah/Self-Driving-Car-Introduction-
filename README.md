@@ -4,10 +4,10 @@
  The use of autonomous cars also rises ethical and legislation dilemmas. Imagine a situation where a self-driving car should choose between prioritizing your safety -even if this means sacrificing other’s lives- and minimizing overall life loss -even if this will come at sacrificing your life-. Contrary to human spontaneous reactions, AI will depend on predetermined deliberate decisions. If the car is instructed to always prioritize its owner’s safety, can this be considered a premeditated homicide? If AI goes wrong, who to blame: the manufacturer company, the programmer, or the owner of the car? These dilemmas are not far from reality. In 2018, Elaine Herzberg was hit by a self-driving Uber car and became the first pedestrian to be killed by such a car.
 
 # Goals
- 1) Collect training and test data from self-driving car simulations
- 2)
- 3) 
- 4) Analyze the ethical dilemmas raised by the use of self-driving cars.
+ <br /> 1) Collect training and test data from self-driving car simulations.
+ <br /> 2) Explore the use of convolutional neural networks (CNN) to model and extract spatial features from images.
+<br />  3) Explore the use of recurrent neural networks (RNN) to extract features from sequence of images (videos) and predict future car movements, acceleration, speed, etc.
+<br />  4) Analyze the ethical dilemmas raised by the use of self-driving cars.
 
 # References
 [1] NHTSA’s National Center for Statistics and Analysis. (2017). 2016 Fatal Motor Vehicle Crashes: Overview (pp. 1–9).
