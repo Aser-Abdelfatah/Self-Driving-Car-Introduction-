@@ -6,19 +6,9 @@ The problem we are trying to work on is developing a self simulation of a self d
 
 This problem is difficult because it requires a lot of edge cases and generally speaking, many roads have different conditions and physical features, so it is challenging to be comprehensive and reactive like a human is. Even major companies, such as Google and Uber, who have attempted to develop self-driving cars, have struggled to address all of these edge cases. For example, Waymo cars, developed by Google, did not pull over for police (https://slate.com/technology/2022/12/san-francisco-waymo-cruise-self-driving-cars-robotaxis.html).
 
-We want to address these challenges first by narrowing the scope of our project by finding a simulator and trying to successfully train our car on one "type" of that simulator, ex. Driving in daylight on an American local road or driving at night on an American highway.
+We want to address these challenges first by narrowing the scope of our project by finding a simulator and trying to successfully train our car on one "type" of that simulator, ex. Driving in daylight on an American local road or driving at night on an American highway. Some challenges we might have to overcome include, developing thorough training data, considering a diverse range of edge cases, learning more about computer vision, etc. We are still figuring out exactly what parameters we want to use and what the precise scope of the project is, but generally speaking, success will be defined as minimizing accidents/deaths/damages done by our car in the environment we train it on.
 
-Some challenges we might have to overcome include, developing thorough training data, considering a diverse range of edge cases, learning more about computer vision, etc.
-
-We are still figuring out exactly what parameters we want to use and what the precise scope of the project is, but generally speaking, success will be defined as minimizing accidents/deaths/damages done by our car in the environment we train it on.
-
-The ethical analysis of self-driving cars needs to address both high-level philosophical principles, such as the definition of fairness and accountability as well as dilemmas particular to the case of autonomous vehicles.
-
-For instance, one of our questions is "should self-driving vehicles be programmed to prioritize your own life at all costs, or should it prioritize saving the most lives in all situations?"
-
-We can't provide a conclusive answer to this question unless we delve deeper into the trolley problem (and other problems) and analyze the implications of our decisions not only from philosophical and ethical perspectives but also from technical and economical perspectives.
-
-To find an answer to this question, we can employ open-source tools such as MIT Moral Machine to identify various scenarios where trade-offs need to be taken.
+The ethical analysis of self-driving cars needs to address both high-level philosophical principles, such as the definition of fairness and accountability as well as dilemmas particular to the case of autonomous vehicles. For instance, one of our questions is "should self-driving vehicles be programmed to prioritize your own life at all costs, or should it prioritize saving the most lives in all situations?" We can't provide a conclusive answer to this question unless we delve deeper into the trolley problem (and other problems) and analyze the implications of our decisions not only from philosophical and ethical perspectives but also from technical and economical perspectives. To find an answer to this question, we can employ open-source tools such as MIT Moral Machine to identify various scenarios where trade-offs need to be taken.
 
 **Ethical Sweep**
 
